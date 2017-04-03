@@ -1,6 +1,7 @@
 # Movie Trailer Website
-This project was created for the _Full Stack Web Developer Nanodegree_ at [Udacity](https://www.udacity.com/degrees/full-stack-web-developer-nanodegree--nd004)
+This project was created for the _Full Stack Web Developer Nanodegree_ at [Udacity](https://www.udacity.com/degrees/full-stack-web-developer-nanodegree--nd004).
 It demonstrates the use of Python to dynamically generate a movie trailer website.
+
 **View a live** [DEMO](https://alimahmoud7.github.io/Movie-Trailer-Website-FSND-Udacity/fresh_tomatoes.html)
 
 ## Requirements
@@ -14,7 +15,7 @@ It demonstrates the use of Python to dynamically generate a movie trailer websit
 * _Hint_: You can delete the existing `fresh_tomatoes.html` to generate new one.
 
 ### More About Me
-- [Linkedin](https://www.linkedin.com/in/alimahmoud7)
+- [LinkedIn](https://www.linkedin.com/in/alimahmoud7)
 - [Twitter](https://twitter.com/Ali_Mahmoud_7)
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" width="50%" />
