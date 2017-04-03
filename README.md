@@ -14,7 +14,7 @@ It demonstrates the use of Python to dynamically generate a movie trailer websit
 * _Hint_: You can delete the existing `fresh_tomatoes.html` to generate new one.
 
 ### More About Me
-[Linkedin](https://www.linkedin.com/in/alimahmoud7)
-[Twitter](https://twitter.com/Ali_Mahmoud_7)
+- [Linkedin](https://www.linkedin.com/in/alimahmoud7)
+- [Twitter](https://twitter.com/Ali_Mahmoud_7)
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" width="50%" />
