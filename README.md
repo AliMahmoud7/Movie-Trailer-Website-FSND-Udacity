@@ -1,8 +1,10 @@
 # Movie Trailer Website
 This project was created for the _Full Stack Web Developer Nanodegree_ at [Udacity](https://www.udacity.com/degrees/full-stack-web-developer-nanodegree--nd004).
-It demonstrates the use of Python to dynamically generate a movie trailer website.
 
+It demonstrates the use of Python to dynamically generate a movie trailer website.
 **View a live** [DEMO](https://alimahmoud7.github.io/Movie-Trailer-Website-FSND-Udacity/fresh_tomatoes.html)
+
+You can look at [my Udacity Project Review!](https://review.udacity.com/#!/reviews/431520)
 
 ## Requirements
 1. Download and install Python 2 or 3 from [The Official Website](https://www.python.org).
